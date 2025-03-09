@@ -48,11 +48,10 @@ ul {
 .wrapper article {
     position: absolute;
     width: 350px;
-    top: 12%;
+    top: 80%;
     right: 20px;
-    background-color:rgb(44, 148, 174);
+    background-color:rgb(235, 242, 244 / 43%);
     padding: 10px;
-    border-radius: 20px ;
     font-size: .8em;
 }
 .article {
