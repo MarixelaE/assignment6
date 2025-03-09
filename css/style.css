@@ -12,7 +12,7 @@
     float: left;
    }
 .hero3 img{
-    width: 80%;
+    width: 100%;
     float: left;
  }
 
@@ -42,7 +42,7 @@ ul {
     margin-right: auto;
     position: relative;
     background-color:#fff;
-    display: flex;
+   display: flex;
 }
 
 .wrapper article {
@@ -75,15 +75,32 @@ ul {
   top: 0em;
   width: 100%;
 }
-
 #menu a, #menu a:link, #menu a:visited, #menu a:hover, #menu a:active {
-  color: #c3a5cd;
-  text-decoration: none;
-  display: inline-block;
-  padding: 0 1em;
-}
-
+    color: #c3a5cd;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 1em;
+  }
 #menu a:hover {
+    color: #4861A2;
+  }
+#footer{
+    background-color: black;
+    color: #8861d6;
+    line-height: 4em;
+    padding: 0 1em;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+  }
+
+  #footer a, #menu a:link, #menu a:visited, #menu a:hover, #menu a:active {
+    color: #c3a5cd;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 1em;
+  }
+#footer a:hover {
   color: #4861A2;
 }
 
