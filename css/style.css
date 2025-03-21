@@ -143,13 +143,16 @@ h3 {
 #three { background-color: #632b7f; }
 #four { background-color: #b347f2; }
 
-@media screen and (min-width:200px) and (max-width:480px)
+@media screen and (max-width:200px)
 {
   .right {
-    position: absolute;
     color: #8861d6;
     /*right: 100px;*/
   }
+  #one { background-color: #c3a5cd; }
+  #two { background-color: #8a5d95; }
+  #three { background-color: #632b7f; }
+  #four { background-color: #b347f2; }
 }
 
 @media screen and (min-width:200px) and (max-width:480px)
@@ -158,8 +161,11 @@ h3 {
     display: inline-block;
   }
   .right {
-    position:relative;
     color: #090909;
     /*right: 100px;*/
   }
+  #one { background-color: #090909; }
+  #two { background-color: #090909; }
+  #three { background-color: #090909; }
+  #four { background-color: #090909; }
 }
