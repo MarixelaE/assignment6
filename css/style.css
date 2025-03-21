@@ -158,7 +158,9 @@ h3 {
 @media screen and (min-width:200px) and (max-width:480px)
 {
   #menu div {
-    display: inline-block;
+    display:list-item;
+    padding: .25em;
+    text-align: center;
   }
   .right {
     color: #090909;
