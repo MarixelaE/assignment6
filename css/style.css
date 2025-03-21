@@ -154,8 +154,11 @@ h3 {
 
 @media screen and (min-width:200px) and (max-width:480px)
 {
+  #menu div {
+    display: inline-block;
+  }
   .right {
-    position: absolute;
+    position:relative;
     color: #090909;
     /*right: 100px;*/
   }
