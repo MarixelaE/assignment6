@@ -163,8 +163,8 @@ h3 {
     text-align: center;
   }
   .right {
-    color: #090909;
-    display: block;
+    color: #e40b0b;
+    display:none;
     /*right: 100px;*/
   }
   h2 {
