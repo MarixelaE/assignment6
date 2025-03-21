@@ -162,6 +162,7 @@ h3 {
   }
   .right {
     color: #090909;
+    display: block;
     /*right: 100px;*/
   }
   #one { background-color: #090909; }
