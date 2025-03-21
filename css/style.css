@@ -143,5 +143,11 @@ h3 {
 #three { background-color: #632b7f; }
 #four { background-color: #b347f2; }
 
-
-
+@media screen and (min-width:200px) and (max-width:480px)
+{
+  .right {
+    position: absolute;
+    color: #8861d6;
+    /*right: 100px;*/
+  }
+}
