@@ -151,3 +151,12 @@ h3 {
     /*right: 100px;*/
   }
 }
+
+@media screen and (min-width:200px) and (max-width:480px)
+{
+  .right {
+    position: absolute;
+    color: #090909;
+    /*right: 100px;*/
+  }
+}
