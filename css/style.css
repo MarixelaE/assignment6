@@ -167,6 +167,12 @@ h3 {
     display: block;
     /*right: 100px;*/
   }
+  h2 {
+    font-size: 1.3em;
+    padding-top: 1em;
+    color: #f4f1f5;
+    text-align: center;
+  }
   #one { background-color: #090909; }
   #two { background-color: #090909; }
   #three { background-color: #090909; }
