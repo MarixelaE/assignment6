@@ -163,9 +163,11 @@ h3 {
     text-align: center;
   }
   .right {
-    color: #e40b0b;
+    
     display:none;
-    /*right: 100px;*/
+    /*right: 100px;
+    color: #e40b0b;
+    */
   }
   h2 {
     font-size: 1.3em;
@@ -173,8 +175,8 @@ h3 {
     color: #f4f1f5;
     text-align: center;
   }
-  #one { background-color: #090909; }
-  #two { background-color: #090909; }
-  #three { background-color: #090909; }
-  #four { background-color: #090909; }
+  #one { background-color: #c3a5cd; }
+  #two { background-color: #8a5d95; }
+  #three { background-color: #632b7f; }
+  #four { background-color: #b347f2; }
 }
