@@ -165,9 +165,9 @@ h3 {
   .right {
     visibility:hidden;
     display:none;
-    color: #24a652;
+    /*color: #24a652;
     font-size: .1em;
-    /*right: 100px;
+    right: 100px;
     color: #e40b0b;
     */
   }
@@ -176,8 +176,8 @@ h3 {
   }
   h2 {
     font-size: 1.3em;
-    padding-top: 1em;
-    color: #f4f1f5;
+    padding-top: 2em;
+    color: #30a056;
     text-align: center;
   }
   #one { 
