@@ -163,10 +163,10 @@ h3 {
     text-align: center;
   }
   .right {
-    
+    visibility:hidden;
     display:none;
-    color: #f4f1f5;
-    font-size: 0em;
+    color: #24a652;
+    font-size: .1em;
     /*right: 100px;
     color: #e40b0b;
     */
