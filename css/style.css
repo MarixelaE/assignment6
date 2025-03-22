@@ -121,13 +121,20 @@ h2 {
   text-align: center;
 }
 h3 {
+  font-size: 3em;
+  padding-top: 1em;
+  color: #f4f1f5;
+  text-align: center;
+}
+/*
+h3 {
     font-size: 2em;
     color: #f4f1f5;
     position: absolute;
     padding-left: 1em;
     padding-top: 1em;
     text-align: center;
-  }
+  }*/
   
 
 #linkc {
@@ -177,6 +184,12 @@ h3 {
   h2 {
     font-size: 1.3em;
     padding-top: 2em;
+    color: #eff6f1;
+    text-align: center;
+  }
+  h3 {
+    font-size: 1.3em;
+    padding-top: 3em;
     color: #30a056;
     text-align: center;
   }
